@@ -1,0 +1,14 @@
+click
+Sphinx
+coverage
+python-dotenv
+poutyne
+mlflow
+numpy
+notif
+yapf
+pytest
+hydra-core
+hydra-colorlog
+torch
+torchvision
